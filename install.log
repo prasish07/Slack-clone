@@ -1,0 +1,8 @@
+[12:51:38 2024-09-22] FETCHING Version 2.38.3
+[12:51:38 2024-09-22] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.38.3/spicetify-2.38.3-linux-amd64.tar.gz
+[12:51:41 2024-09-22] EXTRACTING /home/prasish/.spicetify/spicetify.tar.gz
+[12:51:41 2024-09-22] SETTING EXECUTABLE PERMISSIONS TO /home/prasish/.spicetify/spicetify
+[12:51:41 2024-09-22] REMOVING /home/prasish/.spicetify/spicetify.tar.gz
+[12:51:41 2024-09-22] spicetify path already set in /home/prasish/.zshrc, continuing...
+[12:51:41 2024-09-22] spicetify v2.38.3 was installed successfully to /home/prasish/.spicetify
+[12:51:41 2024-09-22] Run 'spicetify --help' to get started
